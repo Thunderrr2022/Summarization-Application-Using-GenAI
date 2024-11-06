@@ -1,0 +1,74 @@
+# Core App Interface
+streamlit
+
+# Natural Language Processing and Machine Learning
+transformers
+torch
+tensorflow
+langchain
+openai
+keras
+pydantic
+scipy
+numpy
+pandas
+joblib
+
+# Audio and Speech Processing
+SpeechRecognition
+librosa
+pyaudio
+pyannote.audio
+pyannote.core
+pyannote.database
+pyannote.metrics
+pyannote.pipeline
+openai_whisper
+
+# PDF and Text Processing
+PyPDF2
+pdfminer.six
+pdfplumber
+textwrap
+langchain_text_splitters
+
+# Data Science and Plotting
+matplotlib
+seaborn
+lightning
+lightning_fabric
+lightning_utilities
+llvmlite
+ml_dtypes
+
+# Google Generative AI and Authentication
+google-generativeai
+google-auth
+
+# Web and API Interactions
+requests
+jsonschema
+jsonpatch
+jsonpointer
+idna
+multidict
+urllib3
+
+# CSV and Other File Processing
+pandas
+pyarrow
+
+# Utils and Other Modules
+opt_einsum
+packaging
+platformdirs
+protocache
+proton-plus
+jsonschema_specifications
+marshmallow
+omegaconf
+
+# Additional Libraries for General NLP or Helper Functions
+nltk
+pdfminer.six
+langchain_community
